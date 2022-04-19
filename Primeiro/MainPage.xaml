@@ -12,7 +12,8 @@
         <Button Text="1" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" Clicked="Cliquei"/>
         <Button Text="2" VerticalOptions="CenterAndExpand" HorizontalOptions="Start" Clicked="Cliquei"/>
         <Button Text="3" VerticalOptions="CenterAndExpand" HorizontalOptions="End" Clicked="Cliquei"/>
-
+        <Button Text="4" VerticalOptions="CenterAndExpand" HorizontalOptions="End" Clicked="Cliquei"/>
+        
         <Image Source="halo.jpg" />
 
         <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
